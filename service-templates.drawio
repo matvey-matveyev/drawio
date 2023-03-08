@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T12:36:05.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5s--QJpxIv0cjrneZS94" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T12:37:38.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="oS_5ygL91XQLZ0NvlSq1" version="21.0.2" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -157,6 +157,9 @@
         </mxCell>
         <mxCell id="X-WOWMCxgD2yHzHwRiwq-101" value="set internet cfs state to active" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;strokeWidth=1;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="800" y="281" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X-WOWMCxgD2yHzHwRiwq-102" value="risks:&lt;br&gt;1) the reactivation order is not deterministic&lt;br&gt;2) radius is not notified" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=50;position=0.42;" vertex="1" parent="1">
+          <mxGeometry x="850" y="70" width="120" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
